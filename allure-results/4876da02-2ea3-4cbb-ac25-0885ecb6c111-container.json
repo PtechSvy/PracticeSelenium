@@ -1,0 +1,1 @@
+{"uuid":"4876da02-2ea3-4cbb-ac25-0885ecb6c111","name":"PracticeAutomation","children":["0f2e722d-d984-4f38-8fd9-abeae9819705"],"befores":[{"name":"setupTestData","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673067332320,"stop":1673067341979}],"afters":[],"links":[],"start":1673067332294,"stop":1673067342318}
